@@ -28,6 +28,9 @@ h2 {
 section{
     max-width: 80%;
     display: inline-block;
+
+
+    
 }
 article{
     display: inline-grid;
